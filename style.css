@@ -420,7 +420,7 @@ header .cta {
         font-size: 1.5rem; /* Reduz o tamanho do título em telas menores */
     }
 
-    #plans img {
+    .plan-container img {
         max-width: 300px; /* Reduz o tamanho do título em telas menores */
     }
 }
