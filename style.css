@@ -421,8 +421,9 @@ header .cta {
     }
 
     .plan-container img {
-        max-width: 300px; /* Reduz o tamanho do título em telas menores */
-    }
+    width: 300px;
+    height: auto;
+    border-radius: 8px;
 }
 
 
