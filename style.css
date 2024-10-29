@@ -121,7 +121,7 @@ header .cta {
     justify-content: center;
     padding: 2rem;
     z-index: 1;
-    background-image: url('./imgs/Ufc.jpg');
+    background-image: url('Ufc.jpg');
     background-repeat: no-repeat;
     background-size: cover;
     border-radius: 15px; /* Bordas arredondadas */
