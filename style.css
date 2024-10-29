@@ -306,7 +306,7 @@ header .cta {
 }
 
 .plan-container img {
-    width: 600px;
+    width: 100hv;
     height: auto;
     border-radius: 8px;
 }
