@@ -247,7 +247,7 @@ header .cta {
     position: relative; /* Necessário para o posicionamento do pseudo-elemento */
     padding: 3rem 2rem;
     text-align: center;
-    background-image: url('./imgs/ronaldo.jpg'); /* Imagem de fundo */
+    background-image: url('ronaldo.jpg'); /* Imagem de fundo */
     background-repeat: no-repeat;
     background-size: cover; /* Ajusta o tamanho da imagem de fundo */
 }
@@ -418,6 +418,10 @@ header .cta {
 
     #plans h2 {
         font-size: 1.5rem; /* Reduz o tamanho do título em telas menores */
+    }
+
+    #plans img {
+        max-width: 300px; /* Reduz o tamanho do título em telas menores */
     }
 }
 
